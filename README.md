@@ -26,8 +26,15 @@ GUI in matlab to modify images, parameters such as high / medium tones, brightne
 
 
 # Results: 
+#### Black and white filter: 
+![Black and white filter:](https://raw.githubusercontent.com/RafaelLozanoo/Matlab-Mini-Photoshop/master/Results/Black%20and%20white.jpg)
 
-## Rotate: 
+#### Rotate:
+![Rotate filter:](https://raw.githubusercontent.com/RafaelLozanoo/Matlab-Mini-Photoshop/master/Results/Rotate.jpg)
+
+#### Vintage:
+![Vintage filter:](https://raw.githubusercontent.com/RafaelLozanoo/Matlab-Mini-Photoshop/master/Results/Vintage.jpg)
+
 
 
 
