@@ -23,6 +23,8 @@ GUI in matlab to modify images, parameters such as high / medium tones, brightne
 **Beautify:** Apply a series of predefined parameters and using Lab Color Space adjust the shadows and lightness to obtain a classic "beautifying" filter.
 
 **Brightness, contrast and rotation:** By moving the sliders to the left or right you can adjust these parameters.
+# Main interface:
+
 
 
 # Results: 
