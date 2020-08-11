@@ -4,12 +4,12 @@ function RGBnew = changeBrightness(RGB, brightness, contrast)
 % 
 % This function changes the brightness and contrast of an RGB image
 %
-% ARGUMENTS:
+% Arguments:
 % - RGB: the RGB image
 % - brightness: the brightness factor (-1..1)
 % - contrast: the contrast factor (-1..1)
 %
-% RETURNS
+% Returns
 % - RGBnew: the processed image
 %
 

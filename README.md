@@ -1,7 +1,15 @@
 # Matlab-Mini-Photoshop
-GUI in matlab to modify images, parameters such as high / medium tones, brightness, contrast, color, movement, black and white and some more.
+***
+
+
+![App icon](https://raw.githubusercontent.com/RafaelLozanoo/Matlab-Mini-Photoshop/master/Results/App%20icon.png)
+
+### -GUI in matlab to modify images, parameters such as high / medium tones, brightness, contrast, color, movement, black and white and some more.
+***
 
 # Features:
+**Made with the App Designer in Matlab 2020**
+
 **Rotate:** Rotate the image.
 
 **Crop:** Crop the image in the selected zone.
@@ -23,6 +31,7 @@ GUI in matlab to modify images, parameters such as high / medium tones, brightne
 **Beautify:** Apply a series of predefined parameters and using Lab Color Space adjust the shadows and lightness to obtain a classic "beautifying" filter.
 
 **Brightness, contrast and rotation:** By moving the sliders to the left or right you can adjust these parameters.
+***
 # Main interface:
 
 ![Main interface](https://raw.githubusercontent.com/RafaelLozanoo/Matlab-Mini-Photoshop/master/Results/Main%20interface.jpg)
@@ -50,6 +59,6 @@ GUI in matlab to modify images, parameters such as high / medium tones, brightne
 
 
 
-
+***
 
 - <span>Photo by <a href="https://unsplash.com/@joeyy_anne?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Joeyy Lee</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
