@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.ezdeploy" plugin-version="1.0">
-  <configuration file="C:\Users\rafal\Documents\GitHub\Matlab-Mini-Photoshop\img_App.prj" location="C:\Users\rafal\Documents\GitHub\Matlab-Mini-Photoshop" name="img_App" target="target.ezdeploy.standalone" target-name="Application Compiler">
+  <configuration build-checksum="4216192685" file="C:\Users\rafal\Documents\GitHub\Matlab-Mini-Photoshop\img_App.prj" location="C:\Users\rafal\Documents\GitHub\Matlab-Mini-Photoshop" name="img_App" preferred-package-location="C:\Users\rafal\Documents\GitHub\Matlab-Mini-Photoshop\img_App\for_redistribution" preferred-package-type="package.type.exe" target="target.ezdeploy.standalone" target-name="Application Compiler">
     <param.appname>Mini</param.appname>
     <param.icon />
     <param.icons />
@@ -85,9 +85,14 @@
     <fileset.package />
     <fileset.depfun>
       <file>${PROJECT_ROOT}\B&amp;W.png</file>
+      <file>${PROJECT_ROOT}\beautify.png</file>
+      <file>${PROJECT_ROOT}\blur.png</file>
       <file>${PROJECT_ROOT}\changeBrightness.m</file>
       <file>${PROJECT_ROOT}\clean.png</file>
+      <file>${PROJECT_ROOT}\color.png</file>
       <file>${PROJECT_ROOT}\crop.png</file>
+      <file>${PROJECT_ROOT}\negative.png</file>
+      <file>${PROJECT_ROOT}\neon.png</file>
       <file>${PROJECT_ROOT}\open.png</file>
       <file>${PROJECT_ROOT}\rotate.png</file>
       <file>${PROJECT_ROOT}\save.png</file>

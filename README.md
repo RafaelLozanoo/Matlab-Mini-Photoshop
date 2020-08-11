@@ -25,7 +25,7 @@ GUI in matlab to modify images, parameters such as high / medium tones, brightne
 **Brightness, contrast and rotation:** By moving the sliders to the left or right you can adjust these parameters.
 # Main interface:
 
-
+![Main interface](https://raw.githubusercontent.com/RafaelLozanoo/Matlab-Mini-Photoshop/master/Results/Main%20interface.jpg)
 
 # Results: 
 #### Black and white filter: 
@@ -36,6 +36,13 @@ GUI in matlab to modify images, parameters such as high / medium tones, brightne
 
 #### Vintage:
 ![Vintage filter:](https://raw.githubusercontent.com/RafaelLozanoo/Matlab-Mini-Photoshop/master/Results/Vintage.jpg)
+
+#### Neon:
+![Neon](https://raw.githubusercontent.com/RafaelLozanoo/Matlab-Mini-Photoshop/master/Results/Neon.jpg)
+
+#### Beautify:
+![Beautify](https://raw.githubusercontent.com/RafaelLozanoo/Matlab-Mini-Photoshop/master/Results/Beautify.jpg)
+
 
 
 
